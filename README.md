@@ -1,8 +1,11 @@
-# mysticbbs_install_debian_bullseye.txt 
+# How-To: Installing MysticBBS on Debian-testing
+(Debian Bullseye at time of writing)
 
-# v20190901 Copyright 2019 Bradley D. Thornton - http://NorthTech.US
+Also published locally as "mysticbbs_install_debian_bullseye.txt" 
 
-# Licensed under the CC BY-SA 3.0 license here:
+### v20190901 Copyright 2019 Bradley D. Thornton - http://NorthTech.US
+
+#### Licensed under the CC BY-SA 3.0 license here:
 https://creativecommons.org/licenses/by-sa/3.0/  
 
 +---------------------------------------+
