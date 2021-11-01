@@ -1,1 +1,251 @@
 
+# quotdoc.txt
+
++----------------------------------------------------------------+
+| Should be merged w/other quotables' docs that I've created and |
+| curated over the years                                         |
++----------------------------------------------------------------+
+
+------------------------------------------------------------------------
+
+12+1 = 11+2, and "twelve plus one" is an anagram of "eleven plus two."
+
+
+If you start counting at one and spell out the numbers as you go, you won't use the letter "A" until you reach 1,000.
+
+------------------------------------------------------------------------
+
+Under the wide an starry sky,
+Dig my grave and let me lie,
+Glad did I live and gladly die,
+And laid me down with a will,
+And this be the verse that you grave for me,
+Here he lies where he longed to be,
+Home is the sailor home from the sea,
+And the hunter home from the hill.
+                -- R. Kipling
+
+------------------------------------------------------------------------
+
+“Her soul left her body under a mighty and wondrous storm filled with lightning and thunder,” states the Holstener recountal, of Margaret's death, 28 October 1412.
+
+------------------------------------------------------------------------
+
+"a scepter does never make for a sword.”  Duke Warislav VII to his 5 year old son, who would become King Erik VII of Denmark, Norway, and Sweden.
+
+------------------------------------------------------------------------
+
+
+
+P.S. One last thing - try not to worry about what bacula does if your
+clock somehow goes wrong and decides that it is 2037. Or 1970. Or last
+week. :)
+
+    - Graham Keeling
+(Date: 	Wed, 12 Jan 2011 17:41:42 +0000)
+
+
+------------------------------------------------------------------------
+
+"IBM wanted CP/M prompts. It made me throw up."
+
+- Tim Paterson
+
+
+------------------------------------------------------------------------
+
+Politics is supposed to be the second oldest profession.  I have come to
+realize that it bears a very close resemblance to the first.
+        -- Ronald Reagan
+
+------------------------------------------------------------------------
+
+   "We're comin' to your town
+    To bring your network down
+    We are an Internet band."
+
+		-- Deth Specula 1994
+
+------------------------------------------------------------------------
+
+I never took acid. I smoked grass and tripped on it, but I never took
+acid. I was afraid to take it. The song's about a girl who hasn't
+decided whether she wants to stay with me or not. It's pretty much one
+of those love songs.
+
+- Jake Holmes (on Dazed and Confused - the song) -
+
+
+------------------------------------------------------------------------
+On Boredom....
+
+
+1.) If you're bored, then you're boring.
+
+2.) Only boring people get bored.
+
+Or conversely...
+
+3.) It's Only boring people who, don't feel boredom, so cannot conceive
+of it in others. 
+
+------------------------------------------------------------------------
+
+Spark's Sixth Rule for Managers:
+        If a subordinate asks you a pertinent question, look at him as
+if he had lost his senses.  When he looks down, paraphrase the question
+back at him.
+
+------------------------------------------------------------------------
+
+I was asked to Interview at JPL once for a short term immediate need
+contract to address some infrastucture issues back in the NT 4.0 days. 
+
+The interview itself went well between me and three staff members, and
+at the end they gave me a quick tour of the facilities I would be
+managing. I figured I would be receiving a call in the next day or two,
+but before I left, they led me to a room with some workstations and
+asked me to take a test.
+
+I declined.
+
+Less than a month later, two of those interviewers in the group were
+among the students attending a Core Technologies class I was teaching
+in the MCSE program.
+
+When you boil the water, you really should just make the damn coffee.
+
+- me -
+
+------------------------------------------------------------------------
+
+OMV does not contain ANY (0%) code from FreeNAS. I did implement
+everything from beginning. Nevertheless, the most code from FreeNAS has
+been done by myself at the end. Show me any piece of code you think it
+is from FreeNAS. Please do not shout out lies if you talk about
+something you did not know.
+
+- Volker Theile
+	(January 14, 2012 at 7:40 pm)
+	
+------------------------------------------------------------------------
+
+“After this is over I'm going to go check into the mental hospital for
+an indefinite amount of time. I have a whole list of things that will
+ensure my involuntary confinement from the world. The kind that they
+can't ignore or brush off onto the crisis clinic. I'm never coming
+back.”
+
+- Paige A. Thompson
+	(04 July, 2019)
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+We are afraid to care too much, for fear that the other person does not
+care at all. 
+
+– Eleanor Roosevelt
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+"Ask Bill why the string in [MS-DOS] function 9 is terminated by a
+dollar sign. Ask him, because he can't answer. Only I know that." 
+
+- Dr. Gary Kildall.
+
+------------------------------------------------------------------------
+I've never been to Egypt, I don't know anything about wine, but I know
+what i like.
+
+- Elizabeth, The Americans, s5e4 I think. 
+
+------------------------------------------------------------------------
+
+The more he talked of his honor the faster we counted our spoons.
+
+- Ralph Waldo Emerson
+                
+------------------------------------------------------------------------
+
+It hit you so quick you couldn't shit yourself
+
+------------------------------------------------------------------------
+
+"It's very simple - you read the protocol and write the code."
+
+- Bill Joy
+
+------------------------------------------------------------------------
+
+I'll paraphrase a statement I made on IRC a moment ago:
+
+You can break a system with slackroll, with swaret, with slapt-get, with slackpkg, and yes, even doing it "by hand" or "manually" or whatever you want to call it. In all but a small minority of cases, the tool is not to blame - it's user error, even if that error was failing to read and/or understand the documentation on how to use the tool properly.
+
+Ultimately, shit will happen. It also happens to fly farther when using tools.
+__________________
+Robby Workman
+LQ - 19 May 2009  20:31hrs PDT
+
+https://www.linuxquestions.org/questions/slackware-14/article-about-upgrading-to-current-726782/#post3546495
+
+Me quoting him (paraphrased, 7 years later):
+https://www.linuxquestions.org/questions/slackware-14/requests-for-current-20151216-a-4175561577/page17.html#post5519827
+
+------------------------------------------------------------------------
+
+When I first looked back at the Earth, standing on the Moon, I cried.
+
+- Alan Shepard
+
+------------------------------------------------------------------------
+# Linus Torvalds
+
+"And I'm not just saying that. I'm really not a very nice person."
+
+09/06/2000, LKML
+
+-----------------
+
+"I like offending people, because I think people who get offended should
+be offended."
+
+-- Linus, 2012.
+
+-----------------
+
+"This is not a dick-sucking contest."
+
+https://lkml.org/lkml/2013/2/21/228
+
+-----------------
+
+"Losing people to drugs and alcohol is the worst because they destroy any good memories you have of them before forcing you to deal with the empty space they leave behind."
+
+-- Grimes
+
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+-----------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
