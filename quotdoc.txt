@@ -96,7 +96,7 @@ Spark's Sixth Rule for Managers:
 if he had lost his senses.  When he looks down, paraphrase the question
 back at him.
 
-------------------------------------------------------------------------
+-------------------------------------------------
 
 I was asked to Interview at JPL once for a short term immediate need
 contract to address some infrastucture issues back in the NT 4.0 days. 
